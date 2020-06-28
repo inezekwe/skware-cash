@@ -6,3 +6,6 @@ Hey, the list of transactions isn't loading - what gives?!
 
 *******************************************************
 *******************************************************
+
+SOLUTION: A syntax error on line 8 of the script. Missing 
+quotation marks.

@@ -7,3 +7,7 @@ when hovered over
 
 *******************************************************
 *******************************************************
+
+SOLUTION: The CSS style was added inline to the div element containing
+"New" which overrode the linked stylesheet at the beginning of the page.
+I removed the inline style and the hover action worked.

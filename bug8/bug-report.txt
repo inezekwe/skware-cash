@@ -7,3 +7,8 @@ enter key. I thought it was supposed to filter as I type?
 
 *******************************************************
 *******************************************************
+
+SOLUTION: The EventListener for search-input was set to "change"
+instead of "input". The change EventListener is only fired when 
+the user commits to altering the element value (presses enter). 
+Input EventListener fires when any alteration is made to the element.

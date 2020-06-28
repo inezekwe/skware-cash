@@ -6,3 +6,4 @@ There's no styling on the page at all!
 
 *******************************************************
 *******************************************************
+SOLUTION: CSS page was linked incorrectly

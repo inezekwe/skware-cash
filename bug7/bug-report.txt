@@ -6,3 +6,7 @@ Every row in the transaction list has a weird comma preceding it...
 
 *******************************************************
 *******************************************************
+
+SOLUTION: When the transaction array is joined together using join method,
+it defaults with a comma separating the items. Put a space ('') within the 
+method parameter to signify what character you want to separate the items.

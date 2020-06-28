@@ -6,3 +6,6 @@ The transaction filtering is case sensitive. That's annoying!
 
 *******************************************************
 *******************************************************
+
+SOLUTION: Convert both the search string and name value to lower case 
+before comparing

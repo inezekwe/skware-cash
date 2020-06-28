@@ -4,7 +4,8 @@
 //   string representing the transactions
 //*******************************************************
 function renderTransactions(transactions) {
-	var finalHTML = '<div class="buffer">TRANSACTIONS</div>;
+	var finalHTML = '<div class="buffer">TRANSACTIONS</div>';
+	//Syntax error: add closing quotation mark
 
 	var transactionsHTML = transactions.map(function (transaction) {
 		var transactionHTML = `
